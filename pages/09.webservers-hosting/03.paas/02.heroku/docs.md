@@ -48,7 +48,7 @@ heroku create
 and
 
 [prism classes="language-bash command-line"]
-git push heroku master
+git push heroku main
 [/prism]
 
 Ensure that at least one instance of the app is running:
